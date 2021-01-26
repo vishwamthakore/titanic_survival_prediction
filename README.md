@@ -12,6 +12,6 @@ Solution notebooks for Titanic Survival Prediction competition on Kaggle
 - Parent/Children
 
 *Note- Did not use age feature as there are lot of null values in test dataset*
-Model : GradientBoostingClassifier
+**Model : GradientBoostingClassifier**
 
 **Accuracy Score : 0.77272**
